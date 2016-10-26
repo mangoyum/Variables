@@ -29,6 +29,8 @@ public class Variables {
 		
 		long e = Math.round(c);//to round the number; it's part of java.lang
 		System.out.println("e is " + e);
+		//this is an exercise to practice pushing to git and committing
+		//adding comments to illustrate additional commit
 	}
 
 }
